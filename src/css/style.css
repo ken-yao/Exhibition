@@ -1,0 +1,11 @@
+
+
+*{margin:0; padding:0;}
+
+.wrap{width:100%;overflow: hidden;margin:0 auto;}
+.container{width:1172px;overflow: hidden;margin:0 auto; text-align: center;}
+
+.topContainer{width:100%;}
+.topBar{margin:0 auto;text-align:center;width:1172px;height:50px;background-color: #000;}
+.top{}
+
