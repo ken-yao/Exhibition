@@ -1,11 +1,23 @@
 
 
 *{margin:0; padding:0;}
+img{display: block;}
 
 .wrap{width:100%;overflow: hidden;margin:0 auto;}
-.container{width:1172px;overflow: hidden;margin:0 auto; text-align: center;}
 
-.topContainer{width:100%;}
-.topBar{margin:0 auto;text-align:center;width:1172px;height:50px;background-color: #000;}
-.top{}
+.topBar{width:100%;height:50px;background-color: #000;}
+.topBarContainer{margin:0 auto;text-align:left;width:1172px;height:100%;color:#fff;background-color:#333;overflow: hidden;}
+.topBarContainer img{height: 30px;margin-top: 10px;float:left;}
+.topBarMobileText{font-size: 1em;line-height: 50px;padding-left: 1em;}
+
+
+.banner{margin:0 auto; width:1172px; height:100px;background-color: #eee;}
+.banner .logo{float:left;margin-top: 18px;}
+.banner .logo img{height:64px;}
+.banner .title{float:left;}
+.banner .searchContainer{float: right;}
+
+
+
+
 

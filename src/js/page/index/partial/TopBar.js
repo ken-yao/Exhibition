@@ -4,7 +4,10 @@ export default class TopBar extends React.Component {
   render(){
     return (
     	<div className="topBar">
-			dfdf
+    		<div className="topBarContainer">
+				<img src="../../../images/mobile.png" />
+				<span className="topBarMobileText">手机E展地</span>
+			</div>
 		</div>
     );
   }
